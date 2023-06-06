@@ -2,7 +2,7 @@
 
 ```html
 <h4>Activities involved in the notebook</h4>
-```
+
 
 - Importing necessary libraries
 - Reading data into the notebook
