@@ -1,7 +1,7 @@
 # Crab Age Prediciton | Kaggle Competition
 
-```html
-<h4>Activities involved in the notebook</h4>
+
+### Activities involved in the notebook
 
 
 - Importing necessary libraries
