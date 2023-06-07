@@ -6,9 +6,9 @@ How to Contribute
     Fork the repository to your own GitHub account.
     Clone the forked repository to your local machine:
 
-    bash
-```
-git clone https://github.com/your-username/crab-age-prediction.git
+    
+```bash
+git clone https://github.com/juliusmarkwei/Regression-with-a-Crab-Age-Dataset.git
 ```
 Create a new branch to work on your feature or bug fix:
 
@@ -20,16 +20,15 @@ Make your desired changes and improvements to the codebase.
 Test your changes thoroughly to ensure they do not introduce any regressions.
 Commit your changes with a descriptive commit message:
 
-sql
-
+```bash
 git commit -m "Add your message here"
-
+```
 Push your changes to your forked repository:
 
-bash
+```bash
 
     git push origin feature/your-feature
-
+```
     Open a pull request from your forked repository's branch to our main repository's main branch.
     Provide a clear and concise description of the changes you made and the problem they address.
 
